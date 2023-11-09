@@ -1,0 +1,18 @@
+.dettitle{
+    text-align: center;
+    color: rgb(153, 2, 2);
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 70px;
+}
+.dettext{
+    text-align: center;
+    color: antiquewhite;
+    padding-left: 120px;
+    padding-right: 120px;
+    margin-bottom: 100px;
+}
+.trailer{
+    margin-left: 500px;
+    border-radius: 10px;
+}
